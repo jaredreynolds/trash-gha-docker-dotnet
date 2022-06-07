@@ -1,0 +1,1 @@
+# trash-gha-docker-dotnet
